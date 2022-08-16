@@ -4,8 +4,8 @@
 
 
    Features:
-   search bar
-   Get receipe : It contains Video link as well
+   #search bar
+   #Get receipe : It contains Video link as well
 
    
 
