@@ -1,1 +1,1 @@
-# meal-search-app.github.io
+# meal-search-app
